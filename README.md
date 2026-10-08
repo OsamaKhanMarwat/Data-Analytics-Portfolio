@@ -50,7 +50,7 @@ I started in data analysis, so I manage IT with numbers: tracking incidents, ass
 - Work with vendors and management on IT planning, renewals and procurement
 - Build KPI dashboards on tickets, assets and licenses for management reporting
 
-### [IT Support Engineer]: Lucky Cement Limited
+### IT Support Engineer: Lucky Cement Limited
 *[Sep 2023] – [Sep 2026]*
 - Supported servers, endpoints, networks and users
 - Analysed operational and asset data with SQL, Python, Excel, Power BI and Tableau
@@ -59,8 +59,8 @@ I started in data analysis, so I manage IT with numbers: tracking incidents, ass
 
 ## 🚀 Featured Projects
 
-| Project | Description | Tech Used | Link |
-|---|---|---|---|
+| Project | Description | Tech Used 
+|---|---|---|
 | Server & Active Directory Rollout | Centralised access control and permissions for a growing team | Windows Server, AD, GPO | 
 | Backup & Cloud Workload Move | Off-site backup with tested recovery and a workload moved to a cloud VM | AWS / Azure, IAM, Storage | 
 | Asset & License Analytics | Dashboard tracking utilisation, compliance and renewal dates | Tableau, SQL, Excel, Python | 
