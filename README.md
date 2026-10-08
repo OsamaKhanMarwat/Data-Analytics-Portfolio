@@ -1,7 +1,7 @@
 # Osama Khan
 ### Assistant Manager IT | Systems Administration & Cloud Infrastructure
 
-📍 Islamabad, Pakistan | 📧 osamamwt865@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/osama-khan-2k1/) | 🌐 [Portfolio]([https://your-portfolio-url.com](https://osamakhanmarwat.github.io/osama-khan-portfolio/)) 💻 GitHub: [GitHub](https://github.com/OsamaKhanMarwat)
+📍 Islamabad, Pakistan | 📧 osamamwt865@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/osama-khan-2k1/) | 🌐 [Portfolio](https://osamakhanmarwat.github.io/osama-khan-portfolio/) 💻 [GitHub](https://github.com/OsamaKhanMarwat)
 
 
 ## 📌 Overview
