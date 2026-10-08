@@ -1,73 +1,87 @@
-# Data-Analytics-Portfolio
+# Osama Khan
+### Assistant Manager IT | Systems Administration & Cloud Infrastructure
+
+📍 Islamabad, Pakistan | 📧 osamamwt865@gmail.com | 🔗 [LinkedIn](https://www.linkedin.com/in/osama-khan-2k1/) | 🌐 [Portfolio](https://your-portfolio-url.com)
 
 
-## Overview
+## 📌 Overview
 
-This repository contains the source code and project assets for my **personal Data Analytics portfolio website**. The website is designed to professionally showcase my hands-on experience in **data analysis, data visualization, and dashboard development**, with a strong focus on real-world business use cases.
-
-The portfolio highlights interactive dashboards, analytical projects, and technical skills relevant to **Data Analyst and Business Intelligence roles**.
-
----
-
-## About Me
-
-I am a detail-oriented **Data Analyst** with professional experience in analyzing data, building dashboards, and delivering actionable insights to support data-driven decision-making. I specialize in transforming raw data into meaningful visual stories using modern analytics tools.
-
----
-
-## Portfolio Highlights
-
-The website includes the following key sections:
-
-### 🔹 Data Analysis Projects
-
-* Data cleaning, transformation, and validation
-* Exploratory data analysis (EDA)
-* Trend, variance, and KPI analysis
-* Business-focused problem solving
-
-### 🔹 Data Visualization
-
-* Clear and impactful visual storytelling
-* Charts and visuals designed for executive and operational audiences
-* Best practices for layout, color usage, and readability
-
-### 🔹 Dashboard Development
-
-* Interactive dashboards built using **Power BI**
-* Drill-throughs, filters, slicers, and KPIs
-* Optimized data models and calculated measures (DAX)
-
-### 🔹 Business Insights
-
-* Insight-driven reporting
-* Decision-support dashboards
-* Performance monitoring and operational analysis
-
----
-
-## Tools & Technologies
-
-* **Power BI** (Dashboards, DAX, Data Modeling)
-* **Microsoft Excel** (Advanced formulas, Pivot Tables, Power Query)
-* **SQL** (Data extraction, joins, aggregations)
-* **Python** (Data analysis with Pandas, NumPy, Matplotlib)
-* **HTML / CSS / JavaScript** (Portfolio website development)
-
----
-
-## Live Portfolio Website
-
-🔗 **Live Demo:** *https://osamakhanmarwat.github.io/Data-Analytics-Portfolio/*
-
-The live website provides direct access to project descriptions, screenshots, and interactive dashboard links where applicable.
+This repository is a snapshot of my professional profile, key projects and technical expertise in IT management, infrastructure and enterprise technology.
 
 
-## Contact
+## 👤 About Me
 
-📧 **Email:** *osamamwt865@gmail.com*
-💼 **LinkedIn:** *https://www.linkedin.com/in/osama-khan-2k1/*
-🌐 **Portfolio Website:** *https://osamakhanmarwat.github.io/Data-Analytics-Portfolio/*
+I am an IT professional with **3+ years** of experience managing systems, networks and technology operations. As **Assistant Manager IT at Lucky Cement Limited**, I lead IT operations, support teams across departments, and help keep technology secure, reliable and efficient.
+
+I started in data analysis, so I manage IT with numbers: tracking incidents, assets and licenses, reporting clearly to management, and fixing root causes. I am now building cloud engineering skills in virtual machines, storage, identity and automation.
+
+
+
+## 🌟 Portfolio Highlights
+
+
+- Assistant Manager IT at **Lucky Cement Limited**, a large multi-site manufacturing organisation
+- Managed IT infrastructure supporting **[X] users** across **[X] locations**
+- Improved **[uptime / response time / cost]** by **[X%]**
+- Implemented **[backup / security / automation]** solutions
+- Led **[migration / deployment / upgrade]** project for **[system / department]**
+
+
+
+## 🛠️ Tools & Technologies
+
+| Category | Technologies |
+|---|---|
+| **Operating Systems** | Windows Server, Windows 10/11, Linux |
+| **Networking** | LAN/WAN, Firewalls, VPN, Routing & Switching |
+| **Virtualization & Cloud** | [VMware / Hyper-V], Microsoft 365, Azure, AWS |
+| **Directory & Security** | Active Directory, Group Policy, Endpoint Security, Backup & Recovery |
+| **Monitoring & Support** | [Zabbix / PRTG], [Ticketing system] |
+| **Scripting & Data** | PowerShell, Python, SQL, Excel, Power BI, Tableau |
+| **Management** | ITIL, Vendor Management, Budgeting, Asset & License Management, Documentation |
+
+
+## 💼 Professional Experience
+
+### Assistant Manager IT: Lucky Cement Limited
+*[Month Year] – Present*
+- Oversee daily IT operations and coordinate support across departments
+- Manage servers, networks, user access and security policies
+- Work with vendors and management on IT planning, renewals and procurement
+- Build KPI dashboards on tickets, assets and licenses for management reporting
+
+### [Previous Role]: Lucky Cement Limited
+*[Month Year] – [Month Year]*
+- Supported servers, endpoints, networks and users
+- Analysed operational and asset data with SQL, Python, Excel, Power BI and Tableau
+
+
+
+## 🚀 Featured Projects
+
+| Project | Description | Tech Used | Link |
+|---|---|---|---|
+| Server & Active Directory Rollout | Centralised access control and permissions for a growing team | Windows Server, AD, GPO | [Link] |
+| Backup & Cloud Workload Move | Off-site backup with tested recovery and a workload moved to a cloud VM | AWS / Azure, IAM, Storage | [Link] |
+| Asset & License Analytics | Dashboard tracking utilisation, compliance and renewal dates | Tableau, SQL, Excel, Python | [Link] |
+
+
+## 🎓 Education & Certifications
+
+- **[Degree]**: [University], [Year]
+- [AWS Cloud Practitioner / Microsoft AZ-900 / CCNA / ITIL 4 Foundation: add only those you hold or are pursuing]
+
+
+
+## 📫 Contact
+
+Open to professional networking and collaboration.
+
+- 📧 Email: osamamwt865@gmail.com
+- 🔗 LinkedIn: [osama-khan-2k1](https://www.linkedin.com/in/osama-khan-2k1/)
+- 💻 GitHub: [OsamaKhanMarwat](https://github.com/OsamaKhanMarwat)
+
+
 
 
 
