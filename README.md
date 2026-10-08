@@ -22,9 +22,9 @@ I started in data analysis, so I manage IT with numbers: tracking incidents, ass
 
 - Assistant Manager IT at **Lucky Cement Limited**, a large multi-site manufacturing organisation
 - Managed IT infrastructure supporting **users** across **multiple locations**
-- Improved **[uptime / response time / cost]**
-- Implemented **[backup / security / automation]** solutions
-- Led **[migration / deployment / upgrade]** project for **[system / department]**
+- Improved **uptime / response time / cost**
+- Implemented **backup / security / automation** solutions
+- Led **migration / deployment / upgrade** project for **system / department**
 
 
 
@@ -44,14 +44,14 @@ I started in data analysis, so I manage IT with numbers: tracking incidents, ass
 ## 💼 Professional Experience
 
 ### Assistant Manager IT: Lucky Cement Limited
-*[Sep 2026] – Present*
+*Sep 2026 – Present*
 - Oversee daily IT operations and coordinate support across departments
 - Manage servers, networks, user access and security policies
 - Work with vendors and management on IT planning, renewals and procurement
 - Build KPI dashboards on tickets, assets and licenses for management reporting
 
 ### IT Support Engineer: Lucky Cement Limited
-*[Sep 2023] – [Sep 2026]*
+*Sep 2023 – Sep 2026*
 - Supported servers, endpoints, networks and users
 - Analysed operational and asset data with SQL, Python, Excel, Power BI and Tableau
 
@@ -68,8 +68,8 @@ I started in data analysis, so I manage IT with numbers: tracking incidents, ass
 
 ## 🎓 Education & Certifications
 
-- **[BSc Computer Systems Engineering]**: [UET Peshawar], [2023]
-- [AWS Cloud Practitioner / Google IT Support Professional Certificate / Google Data Analytics Professional Certificate 
+- **BSc Computer Systems Engineering**: UET Peshawar, 2023
+- AWS Cloud Practitioner / Google IT Support Professional Certificate / Google Data Analytics Professional Certificate 
 
 
 
